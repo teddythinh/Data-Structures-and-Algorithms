@@ -47,3 +47,4 @@ g.bfs(2)
 print("\n")
 print("Depth first search:""(Starting from vertex 2)")
 g.dfs(2)
+
