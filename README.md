@@ -1,5 +1,7 @@
 # Data Structures and Algorithms, Semester 3, HCMUS
 
+## Introduction:
+
 Some codes and algorithms from `teddythinh` and friends. 
 
 **PLEASE ASK MY PERMISSION BEFORE USING. THANKS !** ☺️☺️☺️
