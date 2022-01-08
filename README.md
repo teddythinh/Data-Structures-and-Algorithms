@@ -1,8 +1,13 @@
 # Data Structures and Algorithms, Semester 3, HCMUS
 
-Some codes and algorithms from `TeddyThinh` and friends. 
+Some codes and algorithms from `teddythinh` and friends. 
 
 **PLEASE ASK MY PERMISSION BEFORE USING. THANKS !** ☺️☺️☺️
+
+## Language uses:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Contents:
 
