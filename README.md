@@ -23,4 +23,4 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 |  5   | [AVL Tree](https://github.com/teddythinh/Data-Structures-and-Algorithms/blob/main/AVL.cpp)                                        | Some implementations about AVL tree
 |  6   | [Red Black Tree](https://github.com/teddythinh/Data-Structures-and-Algorithms/blob/main/RBT.cpp)                                  | Some implementations about Red Black tree
 |  7   | [Prim and Dijkstra algorithms](https://github.com/teddythinh/Data-Structures-and-Algorithms/blob/main/Prim_Dijkstra.cpp)          | Using Prim and Dijkstra algorithms in graphs
-|  8   | [Depth-First Search and Breath-Frist Search](https://github.com/teddythinh/Data-Structures-and-Algorithms/blob/main/DFSandBFS.py) | DFS and BFS using Python
+|  8   | [Depth-First Search and Breath-First Search](https://github.com/teddythinh/Data-Structures-and-Algorithms/blob/main/DFSandBFS.py) | DFS and BFS using Python
