@@ -4,7 +4,7 @@
 
 Some codes and algorithms from `teddythinh` and friends. 
 
-**NOTE: I'm not sure that my program runs properly, maybe there are some logical bugs, please feel free to contact me or open issues to fix these bugs. Thank you very much !**
+**NOTE: I'm not sure whether my program is working properly, perhaps there are a few logical bugs, please feel free to contact me or open issues to fix these bugs. Thank you so much!**
 
 PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺️☺️
 
@@ -14,7 +14,7 @@ PLEASE GIVE MY CREDIT OR MENTION ME `@teddythinh` WHEN USING. THANKS !☺️☺�
 
 ## Contribution:
 
-Contributions are welcome. Just contact my email or any social media accounts I have mentioned in profile. Thanks!
+Contributions are encouraged. Simply contact me via email or any of the social media platforms listed in my profile. Thanks!
 
 ## Contents:
 
